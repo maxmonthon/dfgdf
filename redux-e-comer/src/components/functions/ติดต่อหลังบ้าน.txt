@@ -1,0 +1,19 @@
+//@Endpoint  http://localhost:5000/api/admin/order-status
+
+//@Endpoint     http://localhost:5000/api/category
+
+//@Endpoint     http://localhost:5000/api/images
+
+//@Endpoint     http://localhost:5000/api/product
+
+//@Endpoint  http://localhost:5000/api/users
+
+
+//@Endpoint     http://localhost:5000/api/search/filters
+
+//@Endpoint  http://localhost:5000/api/user/cart
+
+
+//@Endpoint  http://localhost:5000/api/admin/order-status
+//@Method    PUT
+//@Access    Private
